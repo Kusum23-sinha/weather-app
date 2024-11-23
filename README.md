@@ -1,10 +1,10 @@
-Group 1: Raipur Campus
-Lead By: Madhu Nishad
-Group Members: Kusum, Urmila, Kumkum
-Weather App
+# Group 1: Raipur Campus
+# Lead By: Madhu Nishad
+# Group Members: Kusum, Urmila, Kumkum
+# Weather App
 A web application that allows users to search for weather information by city name and displays current weather, a 5-day forecast, and more.
 
-Table of Contents
+# Table of Contents
 Installation
 
 Usage
@@ -17,17 +17,17 @@ Contact
 
 Installation
 
-Detailed instructions on how to install and set up the project.
+# Detailed instructions on how to install and set up the project.
 Clone the repository git clone https://github.com/MadhuNishad23/weather-app.git
 
 Navigate to the project directory cd weather-app
 
 Install dependencies (if any) npm install
 
-Usage
+# Usage
 Instructions and examples for using the project. Run the application (example command, modify as needed) npm start Open your browser and navigate to http://127.0.0.1:5500/index.html. Enter a city name in the search bar to get the current weather and 5-day forecast.
 
-Features
+# Features
 Search Functionality: Allow users to search for weather information by city name.
 
 Weather Display: Show the current weather, temperature, humidity, wind speed, and weather icon.
@@ -46,7 +46,7 @@ JavaScript: Use JavaScript to handle API calls, update the DOM dynamically, and 
 
 Local Storage: Save and retrieve the last searched city or user preferences.
 
-Contributing
+# Contributing
 Guidelines for contributing to the project.
 
 Fork the repository
@@ -59,7 +59,7 @@ Push to the branch (git push origin feature-branch)
 
 Open a pull request
 
-Contact
+# Contact
 Useename: Kusum23-sinha
 
-Project Link:
+Project Link: https://github.com/Kusum23-sinha/weather-app.git
